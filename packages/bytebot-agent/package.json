@@ -26,7 +26,7 @@
     "@bytebot/shared": "../shared",
     "@google/genai": "^1.8.0",
     "@nestjs/common": "^11.0.1",
-    "@nestjs/config": "^4.0.2",
+    "@nestjs/config": "^4.0.3",
     "@nestjs/core": "^11.0.1",
     "@nestjs/event-emitter": "^3.0.1",
     "@nestjs/platform-express": "^11.1.5",
