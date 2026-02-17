@@ -28,7 +28,7 @@
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "dotenv": "^16.4.7",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "http-proxy": "^1.18.1",
     "http-proxy-middleware": "^3.0.5",
     "lucide-react": "^0.517.0",
